@@ -1,0 +1,1 @@
+npx hexo s      #运行hexo
